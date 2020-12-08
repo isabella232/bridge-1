@@ -12,7 +12,7 @@ Adobe Bridge®, integrated digital asset management for Creative Cloud applicati
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Placeholder](images/Smock_GearsEdit_18_N.svg)
+![alt text](images/1497557907913.old.bridge1.jpg)
 
 ### Leverage the bulk processing <br /> power of Bridge
 
@@ -20,7 +20,7 @@ Your plug-ins can script Bridge’s built-in capability to bulk-edit metadata an
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Placeholder](images/Smock_AssetsLinkedPublished_18_N.svg)
+![alt text](images/1497557920875.old.bridge2.jpg)
 
 ### Remake the UI
 
@@ -28,7 +28,7 @@ Build custom UI elements in JavaScript that provide your users a fine-tuned inte
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Placeholder](images/Smock_UploadToCloudOutline_18_N.svg)
+![alt text](images/1497557927034.old.bridge3.jpg)
 
 ### Bridge across the Creative Cloud
 
@@ -38,7 +38,7 @@ Using ExtendScript, Adobe’s enhanced JavaScript that provides access to Creati
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
 
-![CC icon](images/S_IlluBuildPlugIn_96.svg)
+![alt text](images/S_IlluBuildPlugIn_96.svg)
 
 ### Build plug-ins with familiar tools
 
@@ -47,7 +47,7 @@ Adobe Bridge plug-ins are built in ExtendScript, Adobe’s implementation of Jav
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluCreateWorkspace_96.svg)
+![alt text](images/S_IlluCreateWorkspace_96.svg)
 
 ### Create your own custom workspaces
 
@@ -55,7 +55,7 @@ The Bridge API gives you full control of the application’s interface, enabling
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluUseFromLibrary_96.svg)
+![alt text](images/S_IlluUseFromLibrary_96.svg)
 
 ### Start from a solid foundation
 
@@ -63,7 +63,7 @@ The Bridge SDK comes with an extensive library of samples that demonstrate how t
 
 <TextBlock slots="image, heading, text" width="50%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluEnhanceUI_96.svg)
+![alt text](images/S_IlluEnhanceUI_96.svg)
 
 ### Create your own UI
 
@@ -71,7 +71,7 @@ ExtendScript with the Bridge API lets you define custom windows, palettes, dialo
 
 <TextBlock slots="image, heading, text" width="50%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluIntegrateOtherApps_96.svg)
+![alt text](images/S_IlluIntegrateOtherApps_96.svg)
 
 #### Extend across apps
 
