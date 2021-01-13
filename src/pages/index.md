@@ -1,3 +1,8 @@
+---
+title: Creative Cloud - Bridge
+description: This is the home page of Adobe Bridge APIs 
+---
+
 <Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
