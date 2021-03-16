@@ -68,7 +68,7 @@ The Bridge API gives you full control of the application’s interface, enabling
 
 The Bridge SDK comes with an extensive library of samples that demonstrate how to access and leverage virtually the entire API.
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 
