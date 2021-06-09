@@ -5,9 +5,9 @@ description: This is the home page of Adobe Bridge APIs
 
 <Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
-![Bridge Logo](images/br_appicon_256.svg)
+![Bridge Logo](https://adobe.io/shared/icons/br_appicon_64.svg)
 
 #  Supercharge digital asset management with Bridge.
 
@@ -70,7 +70,7 @@ The Bridge SDK comes with an extensive library of samples that demonstrate how t
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Subscribe to the Creative Cloud developer newsletter 
 
