@@ -1,4 +1,12 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
+  - ExtendScript
+  - SDKDocumentation
+  - C++
+  - Scripting
+  - JavaScript
 title: Creative Cloud - Bridge
 description: This is the home page of Adobe Bridge APIs 
 ---
